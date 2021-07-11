@@ -27,12 +27,14 @@
 	      <id>sample</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
 	      <url>http://3.108.252.4:8081/repository/flipkart-releases/</url>
+	       <version>1.0-SNAPSHOT</version>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>sample</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
 	      <url>http://3.108.252.4:8081/repository/flipkart-snapshot/</url>
+	      <version>1.0-SNAPSHOT</version>
 	    </snapshotRepository>
 	    
 	 </distributionManagement>
